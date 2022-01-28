@@ -1,5 +1,9 @@
 # TBD
 
+# 0.2.1
+### Features
+* Provide the option to disable AccessList transactions, which only work on Geth
+
 # 0.2.0
 ### Features
 * Added changelog
